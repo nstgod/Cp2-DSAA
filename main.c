@@ -4,6 +4,7 @@
 
 // Nome: Nelson Troccoli Santos Neto
 // RM: 562815
+// Turma: 1CCPG
 int main() {
     char opcoes;
     printf("===== MENU DE EXERCiCIOS =====\n");
