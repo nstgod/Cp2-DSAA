@@ -18,29 +18,29 @@ int main()
 
     switch (opcoes)
     {
-    case '1':
-    {
-        fibonacci();
-        break;
-    }
+        case '1':
+        {
+            fibonacci();
+            break;
+        }
 
-    case '2':
-    {
-        fatorial();
-        break;
-    }
+        case '2':
+        {
+            fatorial();
+            break;
+        }
 
-    case '3':
-    {
-        palindromo();
-        break;
-    }
+        case '3':
+        {
+            palindromo();
+            break;
+        }
 
-    case '4':
-    {
-        substring();
-        break;
-    }
+        case '4':
+        {
+            substring();
+            break;
+        }
     }
     printf("\n");
     system("pause");
